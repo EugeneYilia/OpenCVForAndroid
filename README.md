@@ -1,4 +1,4 @@
-# OpenCV 3.2.0
+# OpenCV 3.2.0 Eugene
 
 运行前请先安装[OpenCV Manager(必须)](https://github.com/kongqw/FaceDetectLibrary/tree/opencv3.2.0/OpenCVManager)。
 
